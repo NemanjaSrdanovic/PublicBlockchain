@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: BF
+Build-Jdk: 11.0.9
+Class-Path: libs/slf4j-api-1.7.30.jar libs/logback-core-1.2.3.jar libs/l
+ ogback-classic-1.2.3.jar
+Main-Class: network.App
+Created-By: Maven Integration for Eclipse
+
